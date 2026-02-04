@@ -39,7 +39,7 @@ You are suggesting that:
 
 ### Summary
 
-You are positing that **Civilization is a collective hallucination (the Map)** that we agree to believe in to minimize the violence of the **Underbelly (the Territory)**.
+You are positing that **Civilization is a collective hallucination (the Map)** that we agree to believe in to minimize the [violence](https://eplnm.github.io/repo-08/) of the **Underbelly (the Territory)**.
 
 The "Reckoning" implies that the Map can conquer the Territory. You disagree, believing that the Territory (raw human nature/power dynamics) is the immutable base layer, and any attempt to completely overwrite it with moral code will eventually hit an infinite loop and fail.
 
